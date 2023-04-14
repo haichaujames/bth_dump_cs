@@ -1,9 +1,9 @@
 ext {
     moduleLibraryName = "il2cppdumper"
     magiskModuleId = "zygisk_il2cppdumper"
-    moduleName = "Il2CppDumper"
-    moduleAuthor = "Perfare"
-    moduleDescription = "Il2CppDumper Zygisk version."
+    moduleName = "Module Dump Game Android"
+    moduleAuthor = "Hải Châu"
+    moduleDescription = "Vào đường dẫn (/data/data/Game-Cần-Dump/file) để lấy file Dump"
     moduleVersion = "v1.1.0"
     moduleVersionCode = 1
 }
